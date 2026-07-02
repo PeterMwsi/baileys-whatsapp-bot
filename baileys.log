@@ -1,0 +1,15 @@
+◇ injected env (10) from .env // tip: ⌘ suppress logs { quiet: true }
+REDIS_URL = redis://default:SS6zFFB5HFntN6zoVuBW3qmyfEKelvFX@powder-turbolight-sort-22259.db.redis.io:17364
+Redis Connected
+Consumer group already exists.
+Leader Config: TTL=30s Heartbeat=10s Monitor=30s
+
+★★★★ FOLLOWER POD ★★★★
+Current leader: localhost-2
+
+[2026-07-01T16:04:12.256Z] Leader monitoring started.
+[2026-07-01T16:04:12.258Z] ========================================
+[2026-07-01T16:04:12.259Z] AutoChanga Baileys Server Started
+[2026-07-01T16:04:12.259Z] Listening on port 5552
+[2026-07-01T16:04:12.259Z] Health: http://localhost:5552/health
+[2026-07-01T16:04:12.259Z] ========================================
